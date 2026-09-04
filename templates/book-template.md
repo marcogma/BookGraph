@@ -9,10 +9,10 @@ rating:
 
 <!-- One-liners jotted while reading. Page number + thought. No linking here — just capture. -->
 
-# Exam
+# Notes
 
-<!-- Paste the Claude exam questions and your own answers after finishing. -->
+<!-- Post-exam reflections, written as your own notes in first person — not a Q&A transcript. Fold in what you figured out during the exam (corrections, connections, ideas that clicked) as your own understanding, not as "Claude said X." -->
 
 # Concepts extracted
 
-<!-- Links to concept notes pulled from the exam answers, e.g. [[concept-name]] -->
+<!-- Links to concept notes pulled from the notes above, e.g. [[concept-name]] -->

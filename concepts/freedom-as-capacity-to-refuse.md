@@ -10,7 +10,7 @@ For Dostoevsky, freedom isn't irrationality — it's the capacity to refuse what
 
 - [[notes-from-underground]] — origin of the crystal-palace / 2+2=4 argument
 - [[the-idiot]] — Myshkin never refuses anything, which may be why his goodness reads as frictionless rather than pure (see [[goodness-incompatible-with-the-world]])
-- [[the-meek-one]] — her jump reframed as an assertion of freedom rather than despair; the icon in her hand rules out atheistic despair, it's a suicide that asserts value rather than rejecting it. Claude connected this to Kirillov in *Demons* (Marco has not confirmed reading *Demons* — treat as an open comparison, not an established link).
+- [[the-meek-one]] — her jump reframed as an assertion of freedom rather than despair; the icon in her hand rules out atheistic despair, it's a suicide that asserts value rather than rejecting it. Raised as a comparison to Kirillov in [[demons]] — Marco owns the book but hasn't read it yet, so this stays a comparison worth checking once he has, not an established link.
 
 # Related concepts
 

@@ -5,6 +5,18 @@ date_finished: (read some years before 2026-04-30, exact date forgotten)
 rating: 
 ---
 
+# Summary
+
+Follows Emma Bovary, a provincial doctor's wife whose romantic-novel-fed expectations of passion and glamour collide with the mediocrity of her actual life. She pursues that intensity through affairs (with Rodolphe, then Léon) and reckless spending, sinking deeper into debt and self-delusion. When her debts come due and both lovers abandon her, she poisons herself with arsenic, dying in prolonged agony; her husband Charles, oblivious to the affairs until after her death, is ruined and eventually dies himself, leaving their daughter sent off to work in a cotton mill.
+
+# Main characters
+
+- **Emma Bovary** — the protagonist, undone by the gap between romantic fantasy and reality
+- **Charles Bovary** — her devoted, dull husband, unaware of the affairs until it's too late
+- **Rodolphe Boulanger** — her first lover, who abandons her when it becomes inconvenient
+- **Léon Dupuis** — her second lover
+- **Homais** — the pompous, self-important pharmacist embodying bourgeois complacency
+
 # Raw notes (mid-book)
 
 <!-- Reconstructed from memory years after reading — I'd forgotten most of the detail and only kept the core shape of it. -->

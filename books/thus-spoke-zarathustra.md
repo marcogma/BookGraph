@@ -5,6 +5,19 @@ date_finished: (started spring 2025, after Beyond Good and Evil)
 rating: 
 ---
 
+# Summary
+
+Follows the prophet Zarathustra, who descends from ten years of solitude in the mountains to teach humanity the concept of the overman (Übermensch) and the revaluation of all values. Rejected by the crowd, who prefer the comfortable mediocrity of the "last man," he gathers a small number of followers and works through his central ideas — the three metamorphoses of the spirit (camel, lion, child), the eternal recurrence, and the will to power — across a series of parables, encounters, and speeches, ultimately affirming a life lived through self-created values rather than inherited ones.
+
+# Main characters
+
+- **Zarathustra** — the prophet-protagonist, Nietzsche's mouthpiece
+- **The tightrope walker** — falls to his death in the prologue after being mocked by the buffoon, a tragic image of daring
+- **The buffoon/jester** — represents corrosive mockery and nihilism
+- **The old saint** — a hermit Zarathustra meets on the way down the mountain, still devoted to God
+- **The last man** — not a single character but an image: the humanity that has given up striving for comfort
+- **Zarathustra's animals** — an eagle and a serpent, companions representing pride and wisdom
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — worked through chapter by chapter in an exam-style session as I read. -->

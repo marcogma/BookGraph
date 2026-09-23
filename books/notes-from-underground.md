@@ -5,6 +5,16 @@ date_finished: 2025-06-16 (approximate, based on when I discussed it)
 rating: 
 ---
 
+# Summary
+
+A novella in two parts: a bitter, contradictory philosophical monologue by an unnamed narrator (the "Underground Man") attacking rationalism and utopian visions of a perfectly ordered society, followed by a narrative from his younger years — an uninvited dinner with old schoolmates that humiliates him, and his subsequent encounter with a young prostitute, Liza, whom he first draws in with an impassioned speech about love and dignity, then cruelly rejects out of fear of real intimacy, leaving them both wounded.
+
+# Main characters
+
+- **The Underground Man** — the unnamed narrator, spiteful, self-aware, isolated by both choice and fear
+- **Liza** — a young prostitute he draws close and then cruelly pushes away
+- **Zverkov** — the former schoolmate whose farewell dinner the narrator forces his way into
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book for this one — came in whole from exam sessions. -->

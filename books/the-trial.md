@@ -5,6 +5,19 @@ date_finished: 2025-10-20 (approximate)
 rating: 
 ---
 
+# Summary
+
+Opens with Josef K., a respected bank official, being arrested one morning by mysterious agents for a crime that is never named or explained. Over the following year he tries to navigate an opaque, all-encompassing court system — consulting a lawyer, a painter with connections to the judges, and a priest who tells him a parable about a man who waits his whole life for entry to "the Law" and never gets it — while his professional and personal life quietly disintegrates under the weight of the case. On the eve of his thirty-first birthday, two agents take him to a quarry and execute him without ever having told him what he was accused of.
+
+# Main characters
+
+- **Josef K.** — the protagonist, a confident bank official whose life is destroyed by an unexplained accusation
+- **Fräulein Bürstner** — his neighbor, briefly the object of his advances
+- **Huld** — the advocate K. hires, whose actual usefulness is never clear
+- **Leni** — Huld's assistant, drawn to accused men
+- **Titorelli** — a painter with unofficial influence over the court
+- **The priest/chaplain** — tells K. the parable "Before the Law" in the cathedral
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — came in from an exam session, alongside The Castle. -->

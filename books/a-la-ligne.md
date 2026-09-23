@@ -5,6 +5,17 @@ date_finished: 2025-10-11 (approximate)
 rating: 
 ---
 
+# Summary
+
+Autobiographical prose-poem (adapted as a black-and-white graphic novel by Julien Martinière in 2024) in which Joseph Ponthus, a trained social worker who relocated to Brittany for love, takes a series of grueling temp jobs in fish-processing plants and a slaughterhouse. Written in unpunctuated, verse-like prose set to the rhythm of assembly-line work, it alternates between the physical toll of the labor and the narrator's interior life — memories, literary references, devotion to his wife — which is what keeps him intact. There's no dramatic plot resolution; the "story" is the accumulation of shifts itself.
+
+# Main characters
+
+<!-- Not a traditional narrative — key figures instead. -->
+
+- **Joseph** — the narrator, based directly on the author, moving between factory floors and his own memory/literature to survive the work
+- **His wife** — referred to with real affection throughout (not named in what's been discussed here), the anchor he returns to in his head during the shifts
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — came in from a short exam-style session. -->

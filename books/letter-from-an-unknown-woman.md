@@ -5,6 +5,16 @@ date_finished: 2026-05-13
 rating: 
 ---
 
+# Summary
+
+A novella structured as a long letter received by a famous novelist, "R.," on his 41st birthday, from a woman who tells him she's dying and that he was the great, secret love of her life — from her adolescence as his neighbor, through an anonymous night together as a young woman, to raising their son alone, to a final encounter years later where he fails to recognize her even as they sleep together again. She reveals their son has just died, and that she chose never to reveal her identity because she wanted nothing from him but the purity of loving him as she chose to. The letter itself is what finally forces him to confront a life he never noticed he was living carelessly.
+
+# Main characters
+
+- **The unknown woman** — the letter's narrator, never named
+- **R.** — the novelist who receives the letter, referred to only by initial, has no memory of her
+- **Their son** — dies shortly before the letter is written, which is part of what prompts her to finally write it
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — came in from an exam session, alongside The Royal Game, which I'd read shortly before. -->

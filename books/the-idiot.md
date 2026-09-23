@@ -5,6 +5,19 @@ date_finished: 2026-06-14
 rating: 
 ---
 
+# Summary
+
+Follows Prince Myshkin, a genuinely good, guileless man returning to Russian society after years of treatment for epilepsy in a Swiss sanatorium, whose innocence and honesty make him seem simple-minded ("the idiot") to the scheming society around him. He becomes entangled with Nastasya Filippovna, a beautiful woman scarred by her past as a kept mistress, and Aglaya Yepanchina, a proud young woman he's expected to marry — caught between them and the volatile, possessive Rogozhin, who is obsessed with Nastasya. It ends in catastrophe: Rogozhin murders Nastasya, and Myshkin, having tried and failed to save everyone, relapses into complete mental collapse at his side.
+
+# Main characters
+
+- **Prince Myshkin** — the protagonist, radically good and honest, ultimately destroyed by the world's incompatibility with that goodness
+- **Nastasya Filippovna** — beautiful, self-destructive, caught between Myshkin and Rogozhin
+- **Rogozhin** — a wealthy, obsessive merchant's son fixated on Nastasya, who ultimately kills her
+- **Aglaya Yepanchina** — proud, intelligent, the woman society expects Myshkin to marry
+- **Ippolit** — a dying young consumptive who stages a failed suicide after reading a long confession aloud
+- **Gania Ivolgin** — an ambitious, humiliated suitor of Nastasya's
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book for this one — came in whole from exam sessions. -->

@@ -5,6 +5,19 @@ date_finished: (read through spring 2025, exact date unknown)
 rating: 
 ---
 
+# Summary
+
+Nietzsche's 1886 polemic against philosophy's assumption that truth and morality have some absolute, self-evident foundation. Across nine parts he attacks the "prejudices of philosophers" (Kant, Descartes, Plato), critiques Christian and Stoic morality as disguised forms of life-denial, and develops his account of master/slave morality, the will to power, and the free-spirited philosopher of the future who creates values rather than inheriting them. Not a narrative — a sequence of aphorisms and essays.
+
+# Main characters
+
+<!-- No characters — a work of aphoristic philosophy. Key thinkers Nietzsche argues against or with instead. -->
+
+- **Kant** — target of the central critique: the categorical imperative read as herd morality dressed up as universal reason
+- **The Stoics** — accused of self-deception, imposing their own moral ideal on a nature Nietzsche sees as chaotic and indifferent
+- **Descartes** — the *cogito* read as smuggling in exactly the kind of absolute foundation Nietzsche rejects
+- **Spinoza** — respected for rejecting conventional morality, but criticized for his rationalist determinism
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — came in from several exam-style sessions while reading. -->

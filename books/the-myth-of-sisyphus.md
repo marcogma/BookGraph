@@ -5,6 +5,19 @@ date_finished: 2025-06-20 (approximate)
 rating: 
 ---
 
+# Summary
+
+Camus' philosophical essay opens by declaring suicide the one truly serious philosophical problem, given that life appears to have no ultimate, rational meaning. Rather than answering that with despair or a religious "leap" into faith or transcendence (which he calls philosophical suicide), Camus argues for living fully and lucidly within the absurd — the unresolvable tension between humanity's demand for meaning and the universe's silence — without ever pretending the tension is resolved. He illustrates this "absurd" way of living through figures like Don Juan, the actor, and the conqueror, and closes with the image of Sisyphus, condemned by the gods to push a boulder uphill forever only to watch it roll back down, whom Camus imagines as happy — precisely because he embraces his fate with full clarity and no illusions.
+
+# Main characters
+
+<!-- Not a narrative — figures Camus uses as illustrations. -->
+
+- **Sisyphus** — the mythic figure condemned to eternal, futile labor; Camus' model absurd hero
+- **Don Juan** — the seducer who lives fully in each moment without seeking permanence
+- **Faust** — used as a contrast — his refusal to accept life's limits is the "leap" Camus rejects
+- **Kierkegaard and Chestov** — philosophers Camus accuses of "philosophical suicide" for leaping to faith
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — came in from an exam session, worked through section by section. -->

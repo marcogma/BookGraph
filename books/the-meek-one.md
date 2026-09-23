@@ -5,6 +5,15 @@ date_finished: summer 2026 (approximate)
 rating: 
 ---
 
+# Summary
+
+A short story narrated by a pawnbroker sitting beside the body of his young wife, who has just died by suicide, jumping from a window clutching an icon. In a long interior monologue he reconstructs their marriage — how he married her more out of a need for quiet dominance than love, controlled her through coldness and silence, and only softened into real tenderness once it was too late to reach her, precipitating the act that ends the story.
+
+# Main characters
+
+- **The pawnbroker** — the unnamed narrator, controlling and self-justifying, only understanding his own cruelty in retrospect
+- **The meek one** — his young wife, unnamed, whose suicide is the story's central, unresolved act
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book for this one — came in whole from an exam session. -->

@@ -5,6 +5,14 @@ date_finished: (unknown — mentioned but not discussed in this session)
 rating: 
 ---
 
+# Summary
+
+<!-- Mentioned but not actually read/discussed — summary to be added once it gets its own session, to avoid spoiling it in the meantime. -->
+
+# Main characters
+
+<!-- Not yet read — characters to be added once finished. -->
+
 # Raw notes (mid-book)
 
 <!-- Came up at the very end of a long Dostoevsky/Tolstoy session but wasn't actually discussed. -->

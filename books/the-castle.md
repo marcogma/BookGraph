@@ -5,6 +5,18 @@ date_finished: 2025-10-20 (approximate)
 rating: 
 ---
 
+# Summary
+
+Kafka's unfinished novel follows a man known only as K., who arrives in a village beneath an inaccessible castle claiming to have been appointed land surveyor — a role the authorities acknowledge but never actually let him perform. He spends the novel trying to gain access to the castle, or at least official recognition, navigating the village's opaque bureaucracy and a relationship with Frieda, a barmaid connected to the castle official Klamm, without ever making real progress. The manuscript breaks off mid-sentence, unfinished at Kafka's death.
+
+# Main characters
+
+- **K.** — the land surveyor, protagonist, endlessly seeking legitimacy the village never grants
+- **Frieda** — a barmaid who becomes his companion, formerly involved with Klamm
+- **Klamm** — a powerful castle official K. never directly meets
+- **Barnabas** — a messenger from the castle
+- **Olga and Amalia** — Barnabas's sisters, their family ostracized after Amalia refused a castle official's advances
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — read right after The Trial, discussed in the same exam session. See [[the-trial]] for the direct comparisons I drew between the two. -->

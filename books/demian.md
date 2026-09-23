@@ -5,6 +5,19 @@ date_finished: 2026-01-02
 rating: 
 ---
 
+# Summary
+
+A coming-of-age novel narrated by Emil Sinclair, drawn as a boy out of his sheltered, "light" bourgeois world by his enigmatic schoolmate Max Demian, who reinterprets the mark of Cain as a sign of strength rather than sin. Over the following years Sinclair struggles with guilt, isolation, and half-formed rebellion, guided at points by the organist Pistorius and by Demian's mother, Frau Eva, toward the idea that every person must "hatch" out of an inherited world to find their own. It ends with Sinclair, grown and wounded in WWI, recognizing that the guide he sought all along was ultimately a version of himself.
+
+# Main characters
+
+- **Emil Sinclair** — the narrator, torn between the "two worlds" of the novel's opening
+- **Max Demian** — his guide and alter ego, who reframes good/evil for him early on
+- **Frau Eva** — Demian's mother, a further embodiment of the ideal Sinclair is drawn to
+- **Pistorius** — organist and occultist who mentors Sinclair for a time
+- **Franz Kromer** — the bully who first drags Sinclair into guilt and fear
+- **Beatrice** — an idealized figure Sinclair fixates on without ever approaching her
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book — came in from an exam session. Note: I only worked through the Prologue questions myself; I had the chapter-by-chapter questions for the rest of the book answered for me rather than answering them myself, so those aren't my own understanding and I'm not treating them as such here. -->

@@ -5,6 +5,24 @@ date_finished: (still reading, as of 2026-05-05)
 rating: 
 ---
 
+# Summary
+
+<!-- Partial on purpose — Marco is still reading this one, so this covers only the setup established early in the novel, nothing past that. Extend it as he reads further; don't backfill the ending from outside knowledge. -->
+
+Dostoevsky's final novel centers on the dissolute landowner Fyodor Pavlovich Karamazov and his three legitimate sons — passionate Dmitri (Mitya), intellectual Ivan, and gentle novice-monk Alyosha — plus Smerdyakov, his likely illegitimate son and servant. The conflict established early on is a rivalry between Fyodor Pavlovich and Dmitri over the same woman, Grushenka, while Dmitri is also entangled with Katerina Ivanovna, a proud woman he's wronged and who is in turn drawn toward Ivan.
+
+# Main characters
+
+<!-- Only characters introduced by the point Marco has reached. -->
+
+- **Fyodor Pavlovich Karamazov** — the corrupt, hedonistic father
+- **Dmitri (Mitya) Karamazov** — the eldest son, impulsive and passionate, his father's rival over Grushenka
+- **Ivan Karamazov** — the intellectual middle son, wrestling with faith and rationalism
+- **Alyosha (Alexei) Karamazov** — the youngest, a novice at the monastery, the novel's moral center
+- **Smerdyakov** — the family's cook/servant, rumored to be Fyodor Pavlovich's illegitimate son
+- **Grushenka** — a magnetic woman both father and son are drawn to
+- **Katerina Ivanovna** — proud, entangled with both Dmitri and Ivan
+
 # Raw notes (mid-book)
 
 <!-- In progress — I've read a portion, not the whole novel yet, when I first thought about this. -->

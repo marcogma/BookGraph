@@ -5,6 +5,15 @@ date_finished: summer 2026 (approximate)
 rating: 
 ---
 
+# Summary
+
+A short story narrated by an unnamed man who has decided life is meaningless and resolved to kill himself, until a frightened young girl in the street interrupts his plan. Falling asleep with the pistol beside him, he dreams he shoots himself, dies, and is carried to an unspoiled planet where humanity lives in innocent, loving paradise — until his own presence corrupts it, teaching them lies, cruelty, and self-consciousness. He wakes transformed, convinced he's glimpsed ultimate truth, and resolves to preach the possibility of paradise on earth, determined to find the girl he'd ignored.
+
+# Main characters
+
+- **The narrator ("the ridiculous man")** — unnamed, moves from nihilism to a self-declared prophetic mission
+- **The girl** — unnamed, the child on the street whose fear briefly breaks through his indifference
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book for this one — came in whole from an exam session. -->

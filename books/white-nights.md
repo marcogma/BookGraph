@@ -5,6 +5,17 @@ date_finished: 2025-07-27
 rating: 
 ---
 
+# Summary
+
+A short novel narrated by an unnamed young dreamer, lonely and isolated in St. Petersburg, who meets a young woman, Nastenka, crying on a bridge one night. Over four nights they grow close as she tells him about her love for a lodger who once lived with her grandmother and promised to return for her; the narrator falls in love with her himself even as he helps her wait for the other man. On the fourth night, just as Nastenka seems to be turning toward the narrator, the lodger reappears and she runs to him instead — though she writes the narrator a warm letter afterward, and he reflects that even this brief taste of connection was worth a lifetime of solitude.
+
+# Main characters
+
+- **The Dreamer** — the unnamed narrator, lonely, imaginative, prone to living inside stories of his own making
+- **Nastenka** — the young woman he falls for, waiting for another man's return
+- **The lodger** — Nastenka's earlier love, who eventually returns for her
+- **The grandmother** — Nastenka's guardian, who pins her dress to her own to keep her from wandering
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book for this one — came in whole from an exam session. -->

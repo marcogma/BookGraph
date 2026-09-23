@@ -5,6 +5,17 @@ date_finished: 2025-09-10 (approximate)
 rating: 
 ---
 
+# Summary
+
+Traces the final illness and death of Ivan Ilyich Golovin, a respectable, conventional judge whose comfortable, socially correct life is upended by a mysterious, worsening illness. Confronting death, he realizes with horror that his entire life may have been false — lived for propriety and appearance rather than anything real — and finds a measure of peace only in his last moments, through an unguarded moment of genuine contact with his young son.
+
+# Main characters
+
+- **Ivan Ilyich Golovin** — the protagonist, a judge dying slowly and reckoning with his life
+- **Praskovya Fedorovna** — his wife, more concerned with appearances than his suffering
+- **Gerasim** — the young servant who cares for him honestly and without disgust, the only real comfort he gets
+- **Vasya** — his son, whose small gesture of grief moves Ivan Ilyich at the very end
+
 # Raw notes (mid-book)
 
 <!-- None jotted mid-book for this one — came in whole from an exam session. -->

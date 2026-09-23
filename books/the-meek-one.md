@@ -26,6 +26,10 @@ The real turning point isn't the duel, it's the final scene, where his sudden te
 
 I don't think she lowered the gun out of weakness. There's still faith and morality in her — she's devoted, she jumps holding the icon. That detail matters: it rules out despair-as-atheism. Her jump isn't a rejection of value, it's an assertion of it — the one act of freedom no outside power, meaning him, can command or take away. I don't think she did it to make him suffer. It was just her act of freedom — maybe the only one left that doesn't hurt someone else.
 
+# Historical & cultural context
+
+Written in 1876 for *Diary of a Writer*, the unusual single-author periodical Dostoevsky wrote almost entirely himself — journalism, essays, and short fiction mixed together — during the final, religiously conservative phase of his career. See [[dostoevskys-mock-execution-and-siberian-exile]] for the biographical arc that shaped the Dostoevsky writing by this point; the pawnbroker's self-justifying monologue is a form that recurs across nearly everything he wrote after returning from exile.
+
 # Concepts extracted
 
 - [[need-to-be-witnessed]] — the pawnbroker's compulsive self-justification vs. her total silence

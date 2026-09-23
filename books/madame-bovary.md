@@ -29,6 +29,10 @@ One detail I checked rather than assumed: Emma's death by arsenic is drawn out o
 
 I also noticed that even having forgotten almost everything else, what I kept was the *idea*, not the plot — which seems to be how meaningful reading tends to stay with you. You're not really building a library of books, you're building a way of seeing the world, and this one left me thinking in terms of illusion versus reality whenever I run into it elsewhere.
 
+# Historical & cultural context
+
+Serialized in *La Revue de Paris* in 1856, *Madame Bovary* was prosecuted by the French government in early 1857 for "offenses to public morality and religion" — Flaubert was acquitted, but the trial's publicity made the novel a sensation when it appeared as a book later that year. It's often read as a founding text of literary Realism in France, a deliberate reaction against the Romantic fiction Emma herself is addicted to — meaning the book is, among other things, an attack on the kind of novel Emma would want to be the heroine of.
+
 # Concepts extracted
 
 - [[love-as-idea-vs-love-as-person]] — Emma doesn't love a person so much as an idea of what her life should feel like, which is its own version of this pattern

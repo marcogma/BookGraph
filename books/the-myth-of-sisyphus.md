@@ -40,6 +40,10 @@ Faust, mentioned as a contrast, fails exactly where Don Juan succeeds — he sel
 
 I was also reading philosophy of science alongside this, which raised a real question for me: is searching for ultimate truth against the absurd? I think the answer is that it depends on the motive. If science becomes a religion — a hope that it will one day explain everything and hand back meaning — then yes, that's a scientific version of Faust. But curiosity itself isn't against the absurd. A scientist can accept we'll never know everything and still pursue understanding out of curiosity and rebellion rather than despair or hope for salvation — which is exactly Sisyphus pushing the stone with full clarity and no illusions.
 
+# Historical & cultural context
+
+Published in 1942, written in Nazi-occupied France, the same year as Camus' novel *The Stranger* — he became active in the French Resistance shortly after, editing the underground (later overground) newspaper *Combat*. The essay's insistence on living lucidly inside an unresolved, meaningless situation without either despair or false hope reads very differently against that immediate context — not as an abstract thought experiment, but as a philosophy written by someone living inside an actual occupation with no guaranteed ending.
+
 # Concepts extracted
 
 - [[absurd-freedom-and-revolt]] — the central text for this concept; almost everything else I've read through an absurdist lens traces back to this book

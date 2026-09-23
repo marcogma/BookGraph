@@ -28,6 +28,10 @@ I found it genuinely political, though not in the sense of a pamphlet or direct 
 
 The connection to Camus' *Myth of Sisyphus* is direct once I saw it. Camus' man is condemned to push a boulder forever, knowing it will fall again; the factory worker repeats the same gestures on the line — cut, pack, clean, start again. It's the same absurd gesture: repetition without apparent sense, effort with no real payoff. And what defines the absurd man for Camus isn't the work itself but being conscious of it. The narrator here knows his work is repetitive, alienating, going nowhere — and stays lucid anyway. That lucidity doesn't destroy him, it's what saves him: he keeps living, thinking, observing, finding poetry in the act of resisting, composing verses in his head on the line, reciting songs, remembering his wife, remembering poets. Camus is metaphysical about this; here it's sensory and embodied — you can smell the fish, feel the cold, hear the machines.
 
+# Historical & cultural context
+
+Published in 2016 by Joseph Ponthus, drawing directly on temp work he actually did in Brittany food-processing plants; he died of cancer in 2021, shortly after finishing a second book. The graphic adaptation you read, by Julien Martinière, came out in 2024. The book sits inside a specific contemporary French context — *intérim* (temp-agency) labor as a large and often precarious part of the French job market, with its own particular legal and cultural weight that's less visible outside France.
+
 # Concepts extracted
 
 - [[absurd-freedom-and-revolt]] — the clearest embodied, physical version of Camus' absurd hero I've read: lucidity as what saves rather than destroys

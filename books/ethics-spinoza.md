@@ -28,6 +28,10 @@ Spinoza describes three kinds of knowledge. Opinion is what's subject to error, 
 
 On love and hate: there's a love that's born from opinion — love that can be replaced the moment something better comes along, love for what's perishable, which brings suffering, and worse, love for riches, which are perishable and don't even have any real "being" of their own to be loved for. Infinite love is love of God, since God doesn't perish and leads us toward perfection. This kind of love seeks to improve every quality of one's own being, rather than seeking to possess or consume something external.
 
+# Historical & cultural context
+
+Spinoza was born in 1632 into Amsterdam's Portuguese-Jewish community, and in 1656, at 23, was issued a *cherem* (writ of excommunication) by that community — an unusually severe one, for "abominable heresies" never fully specified, though his rejection of a personal, anthropomorphic God and of the soul's immortality are the likely causes. He earned his living grinding optical lenses and never held an academic post. The *Ethics* itself, deliberately structured like a geometry textbook (definitions, axioms, propositions, proofs) to argue that Spinoza's radical claims about God, mind, and freedom follow with the same necessity as a mathematical theorem, was considered too dangerous to publish in his lifetime — it appeared only after his death in 1677, and was banned within the year by the Dutch Reformed Church.
+
 # Concepts extracted
 
 <!-- Not yet linked to the existing concept cluster — worth revisiting once I've read further and can connect Spinoza's account of love to [[love-as-idea-vs-love-as-person]] or [[freedom-as-capacity-to-refuse]] with more confidence, rather than forcing the connection now. -->

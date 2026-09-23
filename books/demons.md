@@ -21,6 +21,10 @@ rating:
 
 <!-- Not read yet. -->
 
+# Historical & cultural context
+
+Written in direct response to the 1869 Nechaev affair: the radical Sergei Nechaev orchestrated the murder of a former member of his own revolutionary cell, Ivan Ivanov, who had tried to leave the group — Nechaev becomes the model for the novel's Pyotr Verkhovensky. Dostoevsky, who had been a young radical himself before his own arrest and exile (see [[dostoevskys-mock-execution-and-siberian-exile]]), used the novel to attack the nihilist and revolutionary movements he'd once been adjacent to. General context only, since the book is still unread — no plot specifics here.
+
 # Concepts extracted
 
 <!-- None yet — see [[freedom-as-capacity-to-refuse]] for the Kirillov comparison to revisit once read. -->

@@ -34,6 +34,10 @@ Comparing him to the Underground Man: both reject fitting in, but the Undergroun
 
 On the Camus comparison: Sisyphus was honest about his own nature — refusing the gods' rules — and paid for it with eternal punishment. I think it's the same thing here. The narrator was honest about his feelings instead of playing society's games, and he "pays" for that with a lonely life. But both of them are free in their clarity, which is the core of Camus' challenge: can you still say yes to life knowing there's no ultimate reward? The narrator does. So does Sisyphus.
 
+# Historical & cultural context
+
+Written and published in 1848, months before Dostoevsky's arrest — see [[dostoevskys-mock-execution-and-siberian-exile]]. This is Dostoevsky's early, Romantic/sentimental period, influenced by Gogol and the "natural school" of Russian fiction, well before the decade of imprisonment and exile that produced the darker, more psychologically extreme fiction of his later career. Worth reading as a baseline for how much his fiction changed afterward, not as representative of "late Dostoevsky."
+
 # Concepts extracted
 
 - [[need-to-be-witnessed]] — an instructive contrast to the Underground Man: the narrator is just as lonely, but doesn't sabotage connection out of fear of being seen

@@ -29,6 +29,10 @@ Kafka's choice of profession is deliberate: a land surveyor measures, defines bo
 
 His relationships all seem tied to the single goal of finding his role: first shelter, then access to the castle, then to Klamm or the mayor. Along the way he "falls" for Frieda, though I don't think it was really love — it felt more like a safe place, since she gives him the sense of mattering that the town otherwise denies him. Both novels have relationships that are hard to call genuine, and both feature a woman close to power as a key figure — someone who navigates the system through intuition and proximity rather than through open resistance to it, surviving it through submission rather than challenging it directly.
 
+# Historical & cultural context
+
+See [[kafkas-bureaucratic-prague-and-posthumous-publication]] — written in 1922 just after Kafka's retirement from the Insurance Institute, unfinished at his death, published 1926.
+
 # Concepts extracted
 
 - [[need-to-be-witnessed]] — K.'s suffering isn't caused by uselessness, but by unacknowledged usefulness: he needs the system to confirm he matters

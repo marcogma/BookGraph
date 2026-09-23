@@ -38,6 +38,10 @@ The Castle, read right after: K. (a different K.) is a foreigner arriving in the
 
 K.'s relationships in *The Castle* feel deeper than Josef K.'s, but they're all linked to the single purpose of finding his role — first shelter, then a way into the castle, then Klamm or the mayor. Along the way he "falls" for Frieda, though I'm not convinced it's real love — it feels more like she gives him a safe place in a town that otherwise refuses to consider him important. In *The Trial* relationships feel impersonal, people are just a means toward proving his innocence. In *The Castle* it's harder to tell if the relationships are genuine, but there's a repeated pattern in both books: a feminine figure as a key character close to power, someone who understands and navigates the system through proximity rather than through rules — but who never actually challenges it.
 
+# Historical & cultural context
+
+See [[kafkas-bureaucratic-prague-and-posthumous-publication]] — written 1914–15, published posthumously in 1925 by Max Brod, against Kafka's explicit instruction that his unpublished work be burned.
+
 # Concepts extracted
 
 - [[absurd-freedom-and-revolt]] — K. never revolts, never accepts the trial's absence of reason; contrast with Camus' Sisyphus and Don Juan

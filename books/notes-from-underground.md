@@ -35,6 +35,10 @@ Compared to Raskolnikov, the contrast is total. Raskolnikov acts — he believes
 
 I also thought about Faust here, even though it might seem unrelated at first. Faust has all the knowledge he could want and still wants more, so he sells his soul to the devil — for earthly love, which he ends up regretting. That's its own kind of existential crisis: the restlessness of someone who has everything except the ability to be satisfied by it, and who tries to escape human limits through a shortcut rather than accepting them.
 
+# Historical & cultural context
+
+See [[dostoevskys-mock-execution-and-siberian-exile]] — written in 1864, the first major work after Dostoevsky's return from exile. Widely read as his direct rebuttal to Nikolai Chernyshevsky's utopian novel *What Is to Be Done?* (1863), which imagined a perfectly rational society engineered around enlightened self-interest — exactly the "crystal palace" the Underground Man rages against.
+
 # Concepts extracted
 
 - [[freedom-as-capacity-to-refuse]] — originates here; the 2+2=4 example, freedom as the right to refuse even objective truth

@@ -28,6 +28,10 @@ I read this alongside Tolstoy's short story *Three Deaths* (the death of a noble
 
 Put next to Camus and Nietzsche, the contrast sharpens further. Camus' absurd hero accepts death without appealing to anything beyond it; Nietzsche asks whether you could will your exact life to repeat forever (eternal recurrence) and still say yes to it. Tolstoy isn't offering either of those. He's not asking you to revolt against meaninglessness or to affirm your life as it already was — he's suggesting that if you live simply, honestly, and truthfully, death itself becomes less terrifying, because you won't arrive at it discovering, like Ivan does, that none of it was real.
 
+# Historical & cultural context
+
+See [[tolstoys-post-conversion-moral-fiction]] — the clearest direct fictionalization of Tolstoy's own 1879 spiritual crisis, documented directly (non-fictionally) in his *A Confession*.
+
 # Concepts extracted
 
 - [[process-vs-outcome-dostoevsky-tolstoy]] — the son's kiss as witnessed resolution, contrasted directly with [[the-meek-one]]'s pawnbroker; *Three Deaths* as the same thesis in miniature

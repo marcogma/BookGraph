@@ -36,6 +36,10 @@ He also brings up Spinoza, whom I hadn't read yet at the time — Nietzsche resp
 
 Later, in the section on skeptics (chapter 6, "We Scholars," section 208), I got stuck on why Nietzsche treats skepticism as a disease, since to me skepticism just means not believing everything at first and looking for a rational explanation. Working through it: he's not attacking healthy doubt used as a method by a strong mind to test its own beliefs. He's attacking skepticism as an end in itself — a symptom of exhaustion, a "degeneracy of the instincts into a desire for peace... for an end to all searching, for a sort of no-longer-being-troubled with either yes or no." That's why he calls Hamlet a fitting prescription for the sick European soul: overthinking to the point of never acting is, for Nietzsche, a failure to affirm life, not a virtue of caution.
 
+# Historical & cultural context
+
+See [[nietzsches-late-career-and-posthumous-misappropriation]] — written in 1886 as a more direct, aphoristic companion to clarify what *Zarathustra* had said in parable form the year before.
+
 # Concepts extracted
 
 - [[master-slave-morality]] — the categorical imperative and Stoicism both read by Nietzsche as disguised slave morality

@@ -40,6 +40,10 @@ That connects to something uncomfortable I noticed about his compassion: he sees
 
 When he finally chooses Nastasya over Aglaya at the end, I don't think he's choosing her because he desires her more. He's choosing her because he judges her to be closer to the abyss — his moral compass just points toward whoever is suffering most. And that means he never really chooses anyone because he wants them; he only ever responds to whoever he thinks needs him most. In trying to keep every possibility open and every person cared for, he ends up sacrificing the one thing nobody else in the book sacrifices for him: a life of his own.
 
+# Historical & cultural context
+
+See [[dostoevskys-mock-execution-and-siberian-exile]] — Myshkin's epilepsy is drawn directly from Dostoevsky's own, and the condemned man's account of his last minutes (one of the three embedded "essays" you noted) is close to a first-hand transcription of what Dostoevsky himself experienced at Semyonovsky Square in 1849. The novel was written 1868–69, partly while Dostoevsky was abroad avoiding creditors and grieving the recent death of his infant daughter, Sonya.
+
 # Concepts extracted
 
 - [[freedom-as-capacity-to-refuse]] — the 2+2=4 / crystal palace argument, drawn from [[notes-from-underground]]

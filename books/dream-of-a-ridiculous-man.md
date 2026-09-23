@@ -26,6 +26,10 @@ My second thought was less generous to him: he wants to be crucified like Jesus,
 
 The ending's proportions matter too: he does find the girl again — "And I found her!... And on I go!" — but it's a half-sentence, subordinated to the larger prophetic mission he's building for himself. I think that imbalance is deliberate. Dostoevsky isn't going to resolve for me whether this is genuine humility or ego in nicer clothes.
 
+# Historical & cultural context
+
+Published a year after *The Meek One* (1877), also in *Diary of a Writer* — see [[dostoevskys-mock-execution-and-siberian-exile]]. The narrator's near-suicide and vision of a corrupted paradise sit close to Dostoevsky's own late-career preoccupation with whether utopian, rationally engineered schemes for human happiness — ideas he'd flirted with in his own youth, before his arrest — were actually livable.
+
 # Concepts extracted
 
 - [[process-vs-outcome-dostoevsky-tolstoy]] — ends on an unresolved interior claim, deliberately unverifiable

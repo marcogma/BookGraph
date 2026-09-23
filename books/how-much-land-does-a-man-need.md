@@ -23,6 +23,10 @@ A parable about Pahom, a peasant who believes that if only he had enough land, h
 
 Reads more like a didactic fable than either Dostoevsky's psychological confession or Tolstoy's own witnessed-redemption stories like *Ivan Ilyich* — the punishment fits the sin with almost mathematical precision. Haven't dug into this one deeply yet; want to give it its own real pass rather than folding it into the same frame as the others.
 
+# Historical & cultural context
+
+See [[tolstoys-post-conversion-moral-fiction]] — same year as *Ivan Ilyich* (1886), but written in the plain-fable register this period favored, aimed at a peasant readership rather than a literary one.
+
 # Concepts extracted
 
 - [[process-vs-outcome-dostoevsky-tolstoy]] — flagged as a third mode (didactic fable), not fully folded into the process/outcome contrast

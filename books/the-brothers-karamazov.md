@@ -35,6 +35,10 @@ Working through it, I realized there isn't one — there are two, and that split
 
 I also noticed I genuinely struggle to keep the characters' names straight across Dostoevsky's novels — there are just so many, and they all carry the same kind of weight. What helps is not memorizing names but pairing one trait with one relationship. Across the novels I've read, the pattern repeats: a man defined by a single dominant force (pride, passion, reason, cynicism, faith) orbiting a woman who represents either redemption or destruction — and Dostoevsky's structure is basically always "does the man accept the possibility of being saved, or destroy it."
 
+# Historical & cultural context
+
+See [[dostoevskys-mock-execution-and-siberian-exile]] — his final novel (1879–80), published the year before his death. General biographical grounding only here, since the book isn't finished yet — nothing plot-specific.
+
 # Concepts extracted
 
 - [[feminine-figure-as-moral-axis]] — the clearest case of this pattern splitting into two poles instead of one person

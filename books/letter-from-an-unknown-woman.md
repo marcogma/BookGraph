@@ -35,6 +35,10 @@ The novel also implies that while she suffered enslaved to this, he lived comfor
 
 It reminds me of Kundera's *The Unbearable Lightness of Being* — is it better to live with lightness or with weight? In Kundera, lightness means a life without permanent consequences: passing relationships, freedom, detachment, no absolute responsibility. That maps directly onto the writer here — nothing seems to truly fix itself in his soul. But Kundera also shows that lightness can become hollow, almost ghostlike, a life too light to actually touch anything. The unknown woman lives with an unbearable weight instead — memory, absolute fidelity, suffering, attachment, extreme meaning — she turns every gesture into something definitive. In both books, love isn't simply happiness; it's what gives existence gravity. For him, one night means nothing. For her, one night organizes an entire life. They aren't even living in the same emotional reality.
 
+# Historical & cultural context
+
+Published in 1922 by Stefan Zweig, an Austrian Jewish writer at the height of his fame in interwar Vienna. Zweig fled Austria after the 1938 Anschluss and eventually took his own life in exile in Brazil in 1942, having concluded — as he wrote in his suicide note — that the culturally rich Europe that had formed him no longer existed. Not directly reflected in this particular novella's content, but relevant to how specific and precarious the Vienna it's set in actually was.
+
 # Concepts extracted
 
 - [[love-as-idea-vs-love-as-person]] — the central tension of the book: she loves him knowing exactly what he is, and still can't tell if that's love for the real person or for an idea she refuses to let go of

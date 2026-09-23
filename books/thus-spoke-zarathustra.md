@@ -28,6 +28,10 @@ Before the old sage on sleep, Zarathustra meets the rope dancer in the prologue 
 
 The old sage who speaks about sleep comes after this. He talks about how important good sleep is — but achieving it requires living a certain way: being thankful, being a better person, being happy, being good to others, so you arrive at night with a prepared and satisfied mind. Zarathustra laughs at this. I read the laughter as Nietzsche criticizing this whole way of living — chasing "sleep" as a kind of numbness, following inherited rules as if they were purpose, when that isn't living at all, it's staying asleep. This chapter comes right after the Three Metamorphoses, and it shows someone stuck permanently in the camel stage: bearing the burden of conventional morality, gratitude, humility, obedience — never becoming the lion who says "no" to inherited values, let alone the child who creates new ones from scratch. The old sage's peacefulness isn't wisdom, it's a kind of cowardice dressed up as virtue — pursuing peace of mind as the highest value instead of intensity, struggle, and growth.
 
+# Historical & cultural context
+
+See [[nietzsches-late-career-and-posthumous-misappropriation]] — written 1883–85. Also the text most directly mined and distorted by his sister Elisabeth's later editing, since its poetic, prophetic form is the easiest of Nietzsche's books to misread out of context.
+
 # Concepts extracted
 
 - [[master-slave-morality]] — the old sage as camel-stage morality: values borrowed rather than created, safety mistaken for virtue

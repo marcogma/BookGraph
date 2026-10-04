@@ -11,6 +11,8 @@ From 1908 until poor health forced his retirement in 1922, Kafka worked as a cla
 
 - [[the-trial]] (written 1914–15, published 1925) — Josef K.'s trial-by-paperwork is drawn directly from the claims-and-procedure world of Kafka's day job; the novel's own unfinished, out-of-order chapters are Brod's arrangement, not a form Kafka approved
 - [[the-castle]] (written 1922, published 1926) — written just after Kafka's retirement, breaks off mid-sentence, unfinished at his death — its subject, a bureaucracy that withholds rather than judges, is the mirror image of the institutional world *The Trial* depicts
+- [[the-metamorphosis]] (written 1912, published 1915): one of the few works Kafka published in his lifetime, written while he was working at the insurance institute
+- [[letter-to-his-father]] (written 1919, published 1952): never delivered; Brod published it after Kafka's death along with the rest of the papers he was asked to burn
 
 # Related historical context
 

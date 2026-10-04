@@ -15,6 +15,7 @@ On April 23, 1849, the 27-year-old Dostoevsky was arrested with other members of
 - [[the-meek-one]] (1876) and [[dream-of-a-ridiculous-man]] (1877) — both late short pieces from his *Diary of a Writer*, written once his views had hardened into the religious/conservative position this period produced
 - [[the-brothers-karamazov]] (1879–80, his final novel) — the religious wrestling running through Ivan and Alyosha traces back to the faith he leaned on through the camp years
 - [[demons]] — written in response to a separate, later event (the 1869 Nechaev affair — see that book's own note), but the paranoid, radicalized political world it depicts is unimaginable without Dostoevsky's own youthful entanglement with, and later horror at, revolutionary politics
+- [[crime-and-punishment]] (1866): the epilogue's Siberian prison camp draws on his own four years in Omsk
 
 # Related historical context
 

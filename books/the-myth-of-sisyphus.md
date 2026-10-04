@@ -44,6 +44,8 @@ I was also reading philosophy of science alongside this, which raised a real que
 
 Published in 1942, written in Nazi-occupied France, the same year as Camus' novel *The Stranger* — he became active in the French Resistance shortly after, editing the underground (later overground) newspaper *Combat*. The essay's insistence on living lucidly inside an unresolved, meaningless situation without either despair or false hope reads very differently against that immediate context — not as an abstract thought experiment, but as a philosophy written by someone living inside an actual occupation with no guaranteed ending.
 
+See [[french-existentialism]] for Camus and Sartre in these years.
+
 # Concepts extracted
 
 - [[absurd-freedom-and-revolt]] — the central text for this concept; almost everything else I've read through an absurdist lens traces back to this book

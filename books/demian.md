@@ -34,6 +34,8 @@ Later, thinking back on the book alongside *Siddhartha*, which I read right afte
 
 Published in 1919, written in the psychological aftermath of WWI, during which Hesse — a pacifist who'd faced public hostility in Germany for his anti-war writing — was undergoing analysis with a Jungian psychoanalyst, Josef Lang. The novel's idea of a hidden "true self" one must painfully hatch out of a false, inherited one owes a direct debt to that analysis. Hesse first published it pseudonymously, under the narrator's own name "Emil Sinclair," partly so it would be judged as a fresh new voice rather than as another book by the already well-known author of *Peter Camenzind* — the deception lasted about a year before he was identified as the real author.
 
+See [[hesse-jungian-analysis-and-the-turn-east]] for Hesse's life around this book and *Siddhartha*.
+
 # Concepts extracted
 
 <!-- No strong links to the existing concept cluster yet — this one stands a bit apart from the Russian/absurdist reading so far. Revisit once more of Hesse or similar coming-of-age/individuation books are added. -->
